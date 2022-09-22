@@ -1,7 +1,7 @@
 # Challenge-04-Web-API's
 
 ## Description
-A coding challenge quiz created for the purpose of testing the abilities that have been taught so far in the class. The motivation for creating this was to get a better understanding of coding as well as how to implment many different styles and skills and functions into HTML through JavaScript. I was able to experience things and issues that very much allowed me to grow more as a coder and with continuious repetition I feel I will be able to create this even faster and better.
+A coding challenge quiz created for the purpose of testing the abilities that have been taught so far in the class. The motivation for creating this was to get a better understanding of coding as well as how to implment many different styles and skills and functions into HTML through JavaScript. I was able to experience things and issues that very much allowed me to grow more as a coder and with continuious repetition I feel I will be able to create this even faster and better. Even though I was not able to create a page that worked I feel as though I was close and another chance at this I would be able to create it properly
 
 ## Installation
 You do not have to install anything to read look at my project besides a web browser. However, to create this you would need Visual Studio Code, Chrome and extensions along with the use of the built in terminal.
