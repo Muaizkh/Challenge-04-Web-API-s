@@ -18,6 +18,9 @@ h1 {
     font-size: 35px;
     text-align: center;
 }
+h2 {
+    display: none;
+}
 /* adding font sizing and aligning it to center as per example in read me */
 #starter {
     text-align: center;
